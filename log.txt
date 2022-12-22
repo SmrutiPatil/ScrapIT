@@ -1,4 +1,0 @@
-Smruti Patil
-Please save this
-I will use Esc, then :w and enter
-Now to quit, I will use Esc, then :x or :q! and enter.
